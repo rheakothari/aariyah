@@ -1,0 +1,273 @@
+
+.logo {
+	width: 350px;
+	height: 400px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #A31947;
+}
+
+.img-responsive {
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	width: 450px;
+	height: 500px;
+}
+
+.motto {
+	text-align: center;
+	position: center;
+	font-style: oblique;
+	margin-right: auto;
+	margin-left: auto;
+	color: #C0C0C0;
+	font-size: 14px;
+	font-family: lucida console;
+}
+
+.nav {
+	position: center;
+	background-color: white;
+	margin: 0 auto;
+	list-style-type: none;
+}
+
+.main {
+	position: relative;
+	display: inline;
+	text-align: center;
+}
+
+.main a{
+	color: #C0C0C0;
+	text-decoration: none;
+	font-family: lucida console;
+	text-align: center;
+	position: relative;
+	display: inline-block;
+	font-size: 25px;
+}
+
+.main a:hover {
+	color: #A31947;
+	text-decoration: none;
+}
+
+.main ul {
+	font: times;
+	font-size: 18px;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	text-decoration: none;
+	position: relative;
+}
+
+.main li {
+	float: left;
+	text-decoration: none;
+	display: inline;
+	position: relative;
+	left: 22%;
+	margin-right: auto;
+	margin-left: auto;
+	width: 10em;
+	color: #C0C0C0;
+	font-size: 20px;
+	position: relative;
+}
+
+
+/* ABOUT US CSS */
+
+#megan {
+	font-family: Palatino;
+	font-size: 20px;
+	text-align: center;
+}
+
+#sanskrit {
+	font-family: Palatino;
+	font-size: 20px;
+	text-align: center;
+}
+
+.megan {
+	width: 400px;
+	height: 400px;
+	padding: 15px;
+	border: 10px solid black;
+	float: left;
+	background-image: url("images/elephants.jpg");
+	color: white;
+}
+
+.sanskrit {
+	width: 400px;
+	height: 400px;
+	padding: 15px;
+	border: 10px solid black;
+	float: right;
+	background-image: url("images/elephants.jpg");
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/*Our Universe*/
+
+.america {
+	width: 600px;
+	height: 200px;
+	padding: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.india {
+	width: 600px;
+	height: 350px;
+	padding: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.london {
+	width: 500px;
+	height: 500px;
+	padding: 15px;
+	margin-right: auto;
+	margin-left: auto;
+
+}
+
+.egypt {
+	width: 500px;
+	height: 400px;
+	padding: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#america {
+	text-align: center;
+	font-style: bold;
+	font-size: 18px;
+	color: #A31947;
+}
+
+.facebook {
+	width: 15px;
+	height: 17px;
+}
+
+#india {
+	text-align: center;
+	font-style: bold;
+	font-size: 18px;
+	color: #A31947;
+}
+
+#london {
+	text-align: center;
+	font-style: bold;
+	font-size: 18px;
+	color: #A31947;
+}
+
+#egypt {
+	text-align: center;
+	font-style: bold;
+	font-size: 18px;
+	color: #A31947;
+}
+
+hr {
+	width: 70%;
+	height: 2px;
+	background-color: #C0C0C0;
+}
+
+/* collections */
+
+.container {
+	width: 100px;
+	height: 200px;
+}
+
+/* shop */
+
+.draftone {
+	width: 100px;
+	height: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	display: inline-block;
+}
+
+.drafttwo {
+	width: 100px;
+	height: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	display: inline-block;
+}
+
+#shop1 {
+	width: 300px;
+	height: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#shop2 {
+	width: 300px;
+	height: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#shop3 {
+	width: 300px;
+	height: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#shop4 {
+	width: 300px;
+	height: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#shop5 {
+	width: 300px;
+	height: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#shop6 {
+	width: 300px;
+	height: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.price {
+	text-align: center;
+	color: #C0C0C0;
+	font-size: 18px;
+	font: Arial;
+}
+.carouselContainer{
+	background-color: #A31947;
+}
+
